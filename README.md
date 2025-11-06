@@ -17,7 +17,7 @@ Created data infrastructure and products that scaled:
 
 ### 🎯 Mission
 
-Make AI alignment work in practice: guide models with authentic human values and solve critical human challenges.
+Make AI alignment work in practice: build infrastructure to capture authentic human values at scale.
 
 ### 📫 Connect
 
