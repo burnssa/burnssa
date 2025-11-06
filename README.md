@@ -12,7 +12,7 @@ Product and data leader at 3 startups with a focus on modeling human behavior. N
 
 Created data infrastructure and products that scaled:
 - **WeaveGrid** (Employee #5) built product and analytics foundations to serve the largest utilities and EV markets in US
-- **Twine/John Hancock**: Co-founded, led behavioral analytics for fintech app (1M+ downloads)
+- **Twine (John Hancock)**: Co-founded, led behavioral analytics for fintech app (1M+ downloads, 3x App Store app of the day)
 - **Guide Financial**: Co-founded, acquired by Manulife
 
 ### 🎯 Mission
