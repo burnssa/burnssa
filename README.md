@@ -6,7 +6,7 @@ Product and data leader at 3 startups with a focus on modeling human behavior. N
 
 - **AI Alignment Research:** Completing experiments from Harvard's [CS 2881: AI Safety](https://github.com/burnssa/ai-alignment-research) course
 - **Preference Data Infrastructure:** Building systems to test alignment ideas through naturalistic human feedback ([Superjective](https://superjective.ai/))
-- **Consulting:** Advising on LLM deployment for financial inclusion in emerging markets ([Finia](https://finia.mx/))
+- **Consulting:** Advising on LLM deployment for financial inclusion in emerging markets ([Finia AI](https://finia.mx/))
 
 ### 🚀 Background
 
