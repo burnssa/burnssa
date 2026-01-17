@@ -1,12 +1,13 @@
 ## 👋 Hi, I'm Scott Burns
 
-Product and data leader at 3 startups with a focus on modeling human behavior. Now looking to beneficially steer AI with authentic human preferences.
+Product and data leader at 3 startups, with a focus on modeling human behavior.
 
 ### 🔬 Current Work
 
-- **AI Alignment Research:** Completing experiments from Harvard's [CS 2881: AI Safety](https://github.com/burnssa/ai-alignment-research) course
+- **Consulting:** Advising on model deployment for financial inclusion in emerging markets ([Finia AI](https://finia.mx/))
+- **AI Alignment Research:** Exploring topics including how models represent legal concepts, how human feedback incentives affect RL outcomes and what causes emergent misalignment ([Research](https://github.com/burnssa/ai-alignment-research))
+- **Agent Manaagement Tools:** Developing open-source cli to intelligently run code agents ([afterpaths](https://github.com/burnssa/afterpaths))
 - **Preference Data Infrastructure:** Building systems to test alignment ideas through naturalistic human feedback ([Superjective](https://superjective.ai/))
-- **Consulting:** Advising on LLM deployment for financial inclusion in emerging markets ([Finia AI](https://finia.mx/))
 
 ### 🚀 Background
 
@@ -17,7 +18,7 @@ Created data infrastructure and products that scaled:
 
 ### 🎯 Mission
 
-Make AI alignment work in practice: build infrastructure to capture authentic human values at scale.
+Make AI beneficial in practice: build infrastructure to align with authentic human values.
 
 ### 📫 Connect
 
