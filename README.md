@@ -4,7 +4,7 @@ Product and data leader at 3 startups, with a focus on modeling human behavior.
 
 ### 🔬 Current Work
 
-- **Consulting:** Advising fintech lender advancing financial inclusion in emerging markets ([Finia AI](https://finia.mx/))
+- **Fintech Data:** Head of Data at [Finia AI](https://finia.mx/) - advancing financial inclusion in emerging markets 
 - **AI Alignment Research:** Exploring topics including how models represent legal concepts, how human feedback incentives affect RL outcomes and what causes emergent misalignment ([Research](https://github.com/burnssa/ai-alignment-research))
 - **Agent Management Tools:** Developing open-source cli to intelligently run code agents ([afterpaths](https://github.com/burnssa/afterpaths))
 - **Preference Data Infrastructure:** Building systems to test alignment ideas through naturalistic human feedback ([Superjective](https://superjective.ai/))
