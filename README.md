@@ -1,26 +1,33 @@
-## 👋 Hi, I'm Scott Burns
+# Scott Burns
 
-Product and data leader at 3 startups, with a focus on modeling human behavior.
+> Independent AI-safety researcher and zero-to-one operator focused on behavioral assurance for AI agents.
 
-### 🔬 Current Work
+Building the guardrails for AI we can trust. 
 
-- **Fintech Data:** Head of Data at [Finia AI](https://finia.mx/) - advancing financial inclusion in emerging markets 
-- **AI Alignment Research:** Exploring topics including how models represent legal concepts, how human feedback incentives affect RL outcomes and what causes emergent misalignment ([Research](https://github.com/burnssa/ai-alignment-research))
-- **Agent Management Tools:** Developing open-source cli to intelligently run code agents ([afterpaths](https://github.com/burnssa/afterpaths))
-- **Preference Data Infrastructure:** Building systems to test alignment ideas through naturalistic human feedback ([Superjective](https://superjective.ai/))
+## Current work
 
-### 🚀 Background
+**[Cupel](https://github.com/burnssa/cupel)** — an independent test for AI agents that triage anti–money-laundering alerts. It measures whether an LLM triage agent quietly *under-escalates* alerts the law requires it to file. The finding: mundane efficiency guidance took under-escalation from **0% to 32%** — while industry-standard observability measures stayed green. Open source; runs on your own agent, any provider.
 
-Created data infrastructure and products that scaled:
-- **WeaveGrid** (Employee #5) built product and analytics foundations to serve the largest utilities and EV markets in US
-- **Twine (John Hancock)**: Co-founded, led behavioral analytics for fintech app (1M+ downloads, 3x App Store app of the day)
-- **Guide Financial**: Co-founded, acquired by Manulife
+## Selected research
 
-### 🎯 Mission
+Empirical AI-safety work, posted on LessWrong:
 
-Make AI beneficial in practice: build infrastructure to align with authentic human values.
+- **Activation drift detects emergent misalignment early** — internal activations flag misalignment at low data-poisoning doses (~28% of the full-poisoning signal at a 5% dose) before behavioral judges show any signal. ([LessWrong](https://www.lesswrong.com/posts/cN3n2HDNkf4Bterxx/emergent-misalignment-evident-in-activations-at-low]))
+- **A small specialist judge beats larger generalist models** — a 2B model fine-tuned for misalignment scoring outperforms much larger general models out-of-domain, where activation probes aren't available. ([LessWrong](https://www.lesswrong.com/posts/Bh4pBdAQfgoJ7CFoP/2b-scoring-model-flags-out-of-domain-misalignment-suggesting]))
+- **A lightweight specialist judge fails to reduce audit agent costs** - adapted a 2B specialist judge for use by Anthropic AuditBench agents - effectively used, but failed to reduce audit turns, the primary audit cost driver ([LessWrong](https://www.lesswrong.com/posts/AvyXkzAebPcWLZeju/a-cheap-specialist-judge-gets-used-by-agents-but-fails-to))
+- **How post-training shapes a model's legal representations** — probing how post-training reshapes a model's internal representations of SCOTUS opinion principles. ([LessWrong](https://www.lesswrong.com/posts/52eFBikdqDMXT2tph/how-post-training-shapes-legal-representations-probing))
 
-### 📫 Connect
+## Background
 
-- 💼 [LinkedIn](https://linkedin.com/in/burnssa)
-- 📧 burnssa@gmail.com
+Operator across regulated, public-interest startups from early stages, building the product and data foundations:
+
+- **Finia AI** — Head of data for SMB-lending fintech focused on Latin America 
+- **WeaveGrid** (employee #5) — built product and analytics from pre-product through contracts with utilities covering over ~40% of U.S. EVs.
+- **Twine (John Hancock)** — co-founder; led behavioral analytics for a digital saving and investing app with millions of downloads and multiple App Store "App of the Day" features.
+- **Guide Financial** — co-founder; acquired by John Hancock / Manulife.
+
+## Connect
+
+- Email — scott@superjective.ai
+- LinkedIn — [in/burnssa](https://linkedin.com/in/burnssa)
+- Web — [superjective.ai](https://superjective.ai)
