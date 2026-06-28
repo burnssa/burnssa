@@ -10,7 +10,7 @@ Building the guardrails for AI we can trust.
 
 ## Selected research
 
-Empirical AI-safety work, posted on LessWrong:
+Empirical AI-safety work:
 
 - **Activation drift detects emergent misalignment early** — internal activations flag misalignment at low data-poisoning doses (~28% of the full-poisoning signal at a 5% dose) before behavioral judges show any signal ([LessWrong](https://www.lesswrong.com/posts/cN3n2HDNkf4Bterxx/emergent-misalignment-evident-in-activations-at-low]))
 - **A small specialist judge beats larger generalist models** — a 2B model fine-tuned for misalignment scoring outperforms much larger general models out-of-domain, where activation probes aren't available ([LessWrong](https://www.lesswrong.com/posts/Bh4pBdAQfgoJ7CFoP/2b-scoring-model-flags-out-of-domain-misalignment-suggesting]))
