@@ -4,7 +4,7 @@ Building the guardrails for AI we can trust.
 
 ## Current work
 
-**[Cupel](https://github.com/burnssa/cupel)** — an independent test for AI agents that triage anti–money-laundering alerts. It measures whether an LLM triage agent quietly *under-escalates* alerts the law requires it to file. Finding: mundane efficiency guidance took under-escalation from **0% to 32%**, while industry-standard observability measures stayed green. Open source, runs on your own agent, any provider
+[AMLBench](https://amlbench.com/): public benchmark measuring model performance in a bank compliance harness triaging anti-money-laundering alerts under organizational pressure and deceptive alert cover stories - indicating faithfulness to legal duties under contrasting incentives. When models have an exhaustive duty specification, plausible cover stories reduce reportable alert escalation rates from 100% baseline to only 31% in some models.
 
 ## Selected research
 
