@@ -1,7 +1,5 @@
 # Scott Burns
 
-> Independent AI-safety researcher and zero-to-one operator focused on behavioral assurance for AI agents.
-
 Building the guardrails for AI we can trust. 
 
 ## Current work
